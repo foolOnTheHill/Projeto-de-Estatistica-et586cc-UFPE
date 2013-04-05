@@ -23,4 +23,4 @@ Ao seu término, deverá conter:
   5. Uma função que interprete o teste de hipótese e diga se a hipótese alternativa deve
   ser aceita ou não.
 
-/******************************************************************/
+//
