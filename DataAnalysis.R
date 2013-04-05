@@ -1,12 +1,11 @@
-#Hitograma
+#Histograma
 histograma = function (data) {
   hist = hist(data)
   lines(c(min(hist$breaks), hist$mids, max(hist$breaks)), c(0, hist$counts, 0), type = "l")
   hist
 }
 
-#Tabela de Frequência
-
+#Tabela de Frequências
 tabela = function(data, metodo = '') {
   r = max(data) - min(data)
   if (metodo == 'sturge') {
@@ -35,7 +34,6 @@ distNorm = function(data, media, desv, alfa) {
   lowerBound = media-E
   x = data
   norm = curve(dnorm(x,media, desv * desv),datalim = c(min(data),max(data)), main = 'Normal padrão')
-  
 }
 
 intervalo = 0.01
