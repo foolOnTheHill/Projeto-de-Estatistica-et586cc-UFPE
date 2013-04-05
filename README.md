@@ -3,7 +3,7 @@ Projeto-de-Estatistica-et586cc-UFPE
 
 Contêm os Scripts para a análise dos dados do meu 'Projeto de R' na UFPE.
 
-/******************************** Ainda em desenvolvimento... ***************************/
+/***************** Ainda em desenvolvimento... *****************/
 
 Ao seu término, deverá conter:
 
@@ -23,4 +23,4 @@ Ao seu término, deverá conter:
   5. Uma função que interprete o teste de hipótese e diga se a hipótese alternativa deve
   ser aceita ou não.
 
-/***************************************************************************************/
+/******************************************************************/
