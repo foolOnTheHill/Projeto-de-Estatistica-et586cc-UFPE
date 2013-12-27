@@ -2,10 +2,9 @@
 setwd("c:/")
 data = read.table("Strikes.dat", header = TRUE)
 
-#Variaveis
-
 View(data)
 
+#Variaveis
 countryCode = data$Country_Code
 years = data$Year
 strikes = data$Strike_Volume
@@ -138,7 +137,6 @@ regCritica <- function(data, alfa) {
   polygon(ox,oy,col ='red')
   print(Z)
 }
-
 
 moda <- function(x) {
   t <- table(as.vector(x))
