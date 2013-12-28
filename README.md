@@ -4,8 +4,8 @@ Análise Estatística
 Contêm os Scripts para a análise dos dados do projeto da disciplina 
 [*Estatística e Probabilidade para Computação*](www.cin.ufpe.br/~et586cc) do Centro de Informática, CIn, da UFPE.
 
-Projeto-de-Estatistica-et586cc-UFPE
------------------------------------
+Sobre o Script
+--------------
 
 O Script é capaz de realizar:
 
